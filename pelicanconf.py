@@ -6,7 +6,7 @@ AUTHOR = 'Tiel'
 SITENAME = 'Litneria'
 SITETITLE = 'Litneria'
 SITESUBTITLE = 'Together We Soar'
-SITEURL = 'https://litneria.herokuapp.com/'
+SITEURL = 'https://litneria.herokuapp.com'
 
 PATH = 'content'
 
@@ -22,7 +22,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = ()
+LINKS = (('Application','http://tinyurl.com/Litneriapp'), ('Discord','http://tinyurl.com/LitneriaDiscord'))
 
 # Social widget
 SOCIAL = ()
