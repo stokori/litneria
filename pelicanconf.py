@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Tiel'
 SITENAME = 'Litneria'
+SITETITLE = 'Litneria'
+SITESUBTITLE = 'Together We Soar'
 SITEURL = 'https://litneria.herokuapp.com/'
 
 PATH = 'content'
